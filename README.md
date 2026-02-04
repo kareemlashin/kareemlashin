@@ -1,144 +1,109 @@
-# 👨‍💻 Kareem Elsayed Ibrahem
-### 🚀 Senior Front End Developer
+<h1 align="center">Hi 👋 I'm Kareem Elsayed Ibrahem</h1>
+<h3 align="center">Senior Front End Developer | Angular Specialist</h3>
 
-📍 Cairo, Egypt  
-📧 kareemelsayed887@gmail.com  
-📱 +20 1006844225  
-🔗 GitHub: https://github.com/kareemlashin  
-🔗 LinkedIn: https://linkedin.com/in/kareem-elsayed-3bbb98198/
+<p align="center">
+  <a href="https://github.com/kareemlashin">
+    <img src="https://komarev.com/ghpvc/?username=kareemlashin&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
----
-
-## 🧠 Professional Summary
-
-💡 Highly skilled Frontend Developer with **6+ years of experience** delivering modern, scalable, and user-centric web applications. Specialized in **Angular**, with strong expertise in **React.js** and **Vue.js**.
-
-🏗️ Experienced in building **design systems**, reusable components, and **performance-optimized UIs** across **enterprise, fintech, healthcare, and government** sectors. Proven ability to **lead teams**, improve performance (**up to 40% faster**), and deliver **secure, accessible, responsive platforms**.
+<p align="center">
+  <a href="mailto:kareemelsayed887@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/kareem-elsayed-3bbb98198/">💼 LinkedIn</a> •
+  <a href="https://github.com/kareemlashin">💻 GitHub</a>
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🚀 About Me
 
-### 🏢 Senior Frontend Developer — Al Rajhi Takaful  
-📅 Feb 2025 – Oct 2025  
-- ⚙️ Developed insurance web apps using **Angular**  
-- 🔄 Built policy & claims flows  
-- 🚀 Improved performance and UX stability  
+🎯 Senior Frontend Developer with **6+ years** of experience building scalable, high-performance web applications.
 
----
-
-### 🏢 Senior Frontend Developer — Solutions by 42  
-📅 Sep 2020 – Feb 2025  
-- 🌍 Led frontend development for **national e-government platforms**  
-- 🧩 Built and maintained **design systems & reusable component libraries**  
-- 📈 Delivered platforms serving **50,000+ daily users**  
-- 🔁 Worked closely with backend & DevOps on **CI/CD pipelines**
+💡 Specialized in **Angular**, with strong experience in **React.js** and **Vue.js**.  
+🏗️ Focused on **design systems, reusable architectures, and enterprise platforms**.  
+⚡ Improved application performance by **up to 40%** in production systems.  
+🌍 Experience across **government, fintech, healthcare, and enterprise sectors**.
 
 ---
 
-### 🏢 Senior Frontend Developer (Part-Time) — Deycare  
-📅 Jan 2024 – Oct 2024  
-- 👨‍👩‍👧 Built daycare management portals  
-- 🌐 Implemented **RTL Arabic support**  
-- 📱 Mobile-first responsive UI
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass)
+
+### ⚛️ Frameworks
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Nuxt](https://img.shields.io/badge/Nuxt-00c58e?style=for-the-badge&logo=nuxt.js)
+
+### 🎨 UI & Styling
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-red?style=for-the-badge&logo=angular)
+![MUI](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=mui)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170fe?style=for-the-badge&logo=ant-design)
+
+### 🧠 State Management
+![NgRx](https://img.shields.io/badge/NgRx-purple?style=for-the-badge&logo=ngrx)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux)
+![Vuex](https://img.shields.io/badge/Vuex-42b883?style=for-the-badge&logo=vue.js)
+![Pinia](https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=vue.js)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+![Cypress](https://img.shields.io/badge/Cypress-17202c?style=for-the-badge&logo=cypress)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright)
+
+### ⚙️ Tools
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx)
+![Webpack](https://img.shields.io/badge/Webpack-1c78c0?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-### 🏢 Frontend Developer (Part-Time) — Private School, Qassim  
-📅 Mar 2020 – Mar 2021  
-- 📊 Built fintech dashboards with **React.js**  
-- 🔐 Focused on security & accessibility  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareemlashin&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemlashin&theme=radical" height="165" />
+</p>
 
 ---
 
-### 🏢 Frontend Developer — Mofex  
-📅 Jan 2020 – Mar 2020  
-- 🎓 Educational portals using **Angular & Vue.js**  
-- 🔌 REST API integrations  
+## 🏆 Featured Work
+
+🔹 National e-government platforms (Adaa, SPA, Balady)  
+🔹 Enterprise design systems used across multiple frameworks  
+🔹 Fintech and healthcare dashboards with real-time data  
+🔹 High-traffic systems serving **50K+ daily users**
 
 ---
 
-### 🏢 Frontend Developer — ElBalto  
-📅 Jan 2019 – Jan 2020  
-- 🏥 Healthcare consultation platform  
-- 💬 Video & chat system with responsive UI  
+## 🎯 Currently Focused On
 
----
-
-### 🏢 UI Developer — D-Innova  
-📅 Jan 2018 – Jan 2019  
-- 🎨 Static websites & interactive UI  
-- 🧱 HTML, CSS, jQuery, Angular  
-
----
-
-## 🛠 Technical Skills
-
-### 💻 Languages  
-JavaScript, TypeScript, HTML5, CSS3, SCSS, Sass, Less  
-
-### ⚛️ Frameworks  
-Angular, React.js, Vue.js, Next.js, Nuxt.js  
-
-### 🎨 UI Libraries  
-Tailwind, Bootstrap, Angular Material, MUI, Ant Design, PrimeNG, Chakra UI, Vuetify, Quasar, PrimeVue  
-
-### 🧱 CSS Architecture  
-BEM, SMACSS, OOCSS, CSS Modules, Responsive Design, RTL  
-
-### 🗄️ State Management  
-NgRx, NGXS, Redux Toolkit, Vuex, Pinia, React Query  
-
-### 🏗️ Architecture  
-Component-Based Architecture, RxJS, SOLID, Design Patterns, Micro-Frontends  
-
-### 🧪 Testing  
-Jest, Jasmine, Karma, Cypress, Playwright, Mocha, Chai  
-
-### ⚙️ Build Tools  
-Webpack, Vite, Gulp, Babel, Nx, NPM, Yarn, PNPM  
-
-### 🔌 APIs  
-REST, GraphQL, Axios  
-
-### 🔄 Version Control  
-Git, GitHub, GitLab, GitFlow  
-
-### ♿ UI/UX  
-Accessibility (a11y), Design Systems, Multi-theme, Multi-language  
-
-### 📋 Workflow  
-Agile, Scrum, Jira  
-
----
-
-## 🎓 Education
-
-🎓 **IT School – Programming Track**  
-📅 2012 – 2017  
-⭐ Grade: **92.5%**
-
----
-
-## 🚀 Key Projects
-
-- 📊 **Adaa Platforms** – National KPI dashboards  
-- 📰 **Saudi Press Agency** – Admin & Editors portals  
-- 🏛️ **Council of Saudi Chambers** – Business communication portal  
-- 🧾 **Saudi Council of Engineers** – Registration & licensing  
-- 📅 **SFOC System** – Reservation & scheduling  
-- 📈 **National Labor Observatory** – Market analytics dashboards  
-- 🏙️ **Balady Services** – Municipal permits & licensing  
-- 🧑‍⚖️ **Intellectual Property Authority** – RBAC admin panel  
-- 🏥 **ElBalto** – Online medical consultations  
-- 👶 **Deycare** – Daycare management portals  
+- Scalable Frontend Architectures  
+- Design Systems & UI Engineering  
+- Performance Optimization  
+- Enterprise Angular Applications  
 
 ---
 
 ## 🤝 Let’s Connect
 
-💬 Open to frontend architecture, design systems, and enterprise-scale projects.
-
+📍 Cairo, Egypt  
 📧 kareemelsayed887@gmail.com  
-🔗 GitHub: https://github.com/kareemlashin  
-🔗 LinkedIn: https://linkedin.com/in/kareem-elsayed-3bbb98198/
+💼 https://linkedin.com/in/kareem-elsayed-3bbb98198/  
+💻 https://github.com/kareemlashin  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=22&center=true&vCenter=true&width=500&lines=Senior+Frontend+Developer;Angular+Specialist;Design+Systems+Engineer;Building+Scalable+Web+Apps" />
+</p>
